@@ -1,17 +1,8 @@
 
 
-# Hi there! 👋 I'm MarinaFran
-
-- 🔭 I’m currently working as a **Systems Engineer** and exploring **Project Management**.
-- 🌱 I’m learning **Angular, .NET, and front-end development**.
-- 💬 Ask me about **C#, Angular, and Form Validations**.
-- 📫 How to reach me: perlamarina.franco@gmail.com
-- ⚡ Fun fact: I love cold weather and exploring new places in Mexico! ❄️🏔️
-
-- 
-
 ---
 
+# 👋 Hi, I'm Marina
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/perla-marina/)
@@ -55,4 +46,69 @@
 
 ## 🎓 Education
 🎓 **Bachelor's Degree in Computer Science Engineering**
+
+---
+**Certified Scrum Master (CSM)** with a strong background in **Systems Engineering**. **Certified in Java** with expertise in **object-oriented programming** and **software development**.  
+🔹 Currently focusing on advancing my skills in **Angular**, **.NET development**, and **Agile project management**.  
+🔹 I’m always eager to learn and grow within the world of **software engineering** and **project leadership**.
+
+ 
+## 🚀 Learning Today From
+Aprentice in Devlopers.net
+https://tutorials.eu/
+[LeetCode Profile](https://leetcode.com/Ambarjs/)
+
+
+
+---
+
+## 💼 Work Experience
+
+### **C# Developer | Developers.net (1 year)**
+- Fullstack developer working with **C#**, **.NET**, **Angular**, **NgRx**, and **Entity Framework**.
+- Developed and maintained scalable applications.
+- Collaborated on frontend and backend features for enterprise solutions.
+- Improved state management using **NgRx** to optimize performance.
+
+
+### **Prentice | Tiempo Development (Second Period)**
+- Implemented an **online store** using **React** and the **Redux pattern**.
+- Gained experience in **state management** and **UI development** with React.
+
+
+### **Software Engineer | Dextra (Pemex Project)**
+- Reviewed, repaired, and documented a dashboard application.
+
+### **Frontend Developer | Zourcing**
+- Migrated an **Angular v6** employee profile management app to a mobile version.
+- using IOnic 3
+
+### **Fullstack Developer | Collins (Farmaceutical Project)**
+- Developed an **admin system** using **PHP Zend** to manage RH process.
+- Web and DB server administrator
+- aprentice of ABAP-SAP ERP
+  
+- ### **Software Engineer | Tiempo Development (First Period)**
+- Developed a content management system for advertisement accounts using **Angular**,**WorkPress CMS**,**JavaScript**, and **CodeIgniter PHP**.
+- Managed backend and frontend features within an agile team.
+
+
+### **Other Projects**
+- Developed an internal stock and product management system for **Jabones Lirio, Sánchez y Martínez**.
+- Created multiple internal service management applications for **Collins Pharmaceutical**.
+- Built several **landing pages** for hospitals, agritech industries, and dental clinics.
+- Developed internal systems for the **Jalisco Government**, managing employees, resources, workshops, and clinical records in nursing areas.
+
+---
+
+## 🌟 Projects
+- **Landing page for DentalMe**
+- **Landing page for PruebaPack**
+- **Technical challenge projects**
+
+---
+
+🚀 Passionate about building innovative solutions and continuously learning new technologies!
+
+---
 
