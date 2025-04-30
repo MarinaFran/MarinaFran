@@ -2,7 +2,7 @@
 
 ---
 
-# 👋 Hi, I'm Marina
+# 👋 Hi, I'm Mar
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/perla-marina/)
