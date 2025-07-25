@@ -71,7 +71,7 @@ https://tutorials.eu/
 - Improved state management using **NgRx** to optimize performance.
 
 
-### **Prentice | Tiempo Development (Second Period)**
+### **JR| Tiempo Development (Second Period)**
 - Implemented an **online store** using **React** and the **Redux pattern**.
 - Gained experience in **state management** and **UI development** with React.
 
